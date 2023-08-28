@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-//using EcoPowerSolutionAPI.Models;
+using EcoPowerSolutionAPI.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
