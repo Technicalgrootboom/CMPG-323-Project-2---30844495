@@ -13,9 +13,9 @@ namespace EcoPowerSolutionAPI.Controllers
     [ApiController]
     public class CustomersController : ControllerBase
     {
-        private readonly EcoPowerSolutionsContext _context;
+        private readonly ecopowerdbContext _context;
 
-        public CustomersController(EcoPowerSolutionsContext context)
+        public CustomersController(ecopowerdbContext context)
         {
             _context = context;
         }
@@ -87,7 +87,7 @@ namespace EcoPowerSolutionAPI.Controllers
         {
           if (_context.Customers == null)
           {
-              return Problem("Entity set 'EcoPowerSolutionsContext.Customers'  is null.");
+              return Problem("Entity set 'ecopowerdbContext.Customers'  is null.");
           }
             _context.Customers.Add(customer);
             try
