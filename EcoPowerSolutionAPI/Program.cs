@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-//using EcoPowerSolutionAPI.Models;
+using EcoPowerSolutionAPI.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,13 +7,16 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-//builder.Services.AddDbContext<EcoPowerSolutionsContext>(options => options.UseSqlServer(connectionString));
+builder.Services.AddDbContext<ecopowerdbContext>(options => options.UseSqlServer(connectionString));
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+//Add Authentication
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
