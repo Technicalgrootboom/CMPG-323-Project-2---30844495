@@ -15,6 +15,7 @@ using Swashbuckle.AspNetCore.Swagger;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using Swashbuckle.AspNetCore.SwaggerUI;
 using System.Linq;
+using EcoPowerSolutionAPI.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,7 +23,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
-builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer("name=ConnectionStrings:ConnStr"));
+builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer("name=ConnectionStrings:DefaultConnection"));
+builder.Services.AddDbContext<ecopowerdbContext>(options => options.UseSqlServer("name=ConnectionStrings:DefaultConnection"));
 
 // For Identity  
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>()

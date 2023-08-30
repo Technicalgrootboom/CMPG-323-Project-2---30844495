@@ -25,7 +25,7 @@ namespace EcoPowerSolutionAPI.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Persist Security Info=False;User ID=student; Password=Nhlabathi18@2;Initial Catalog=ecopowerdb;Data Source=ecopowerserver30844495.database.windows.net");
+                optionsBuilder.UseSqlServer("name=ConnectionStrings:DefaultConnection");
             }
         }
 
