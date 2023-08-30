@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itstudent\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj": {}
+    "C:\\Users\\Root\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itstudent\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj": {
+    "C:\\Users\\Root\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itstudent\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Root\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj",
         "projectName": "EcoPowerSolutionAPI",
-        "projectPath": "C:\\Users\\itstudent\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj",
-        "packagesPath": "C:\\Users\\itstudent\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itstudent\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\obj\\",
+        "projectPath": "C:\\Users\\Root\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj",
+        "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Root\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\itstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Root\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +60,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.21, )"
+              "version": "[7.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -113,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
