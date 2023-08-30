@@ -15,7 +15,6 @@ using Swashbuckle.AspNetCore.Swagger;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using Swashbuckle.AspNetCore.SwaggerUI;
 using System.Linq;
-using EcoPowerSolutionAPI.Authentication;
 
 var builder = WebApplication.CreateBuilder(args);
 
