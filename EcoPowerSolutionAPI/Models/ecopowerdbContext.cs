@@ -11,9 +11,9 @@ namespace EcoPowerSolutionAPI.Models
         {
         }
 
-        public ecopowerdbContext(DbContextOptions<ecopowerdbContext> options)
-            : base(options)
+        public ecopowerdbContext(DbContextOptions<ecopowerdbContext> options) : base(options)
         {
+
         }
 
         public virtual DbSet<Customer> Customers { get; set; } = null!;
