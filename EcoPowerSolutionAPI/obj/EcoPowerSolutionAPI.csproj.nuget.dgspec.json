@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 2\\Progess\\Project-Latest\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj": {}
+    "C:\\Users\\itstudent\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj": {}
   },
   "projects": {
-    "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 2\\Progess\\Project-Latest\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj": {
+    "C:\\Users\\itstudent\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 2\\Progess\\Project-Latest\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj",
+        "projectUniqueName": "C:\\Users\\itstudent\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj",
         "projectName": "EcoPowerSolutionAPI",
-        "projectPath": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 2\\Progess\\Project-Latest\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj",
+        "projectPath": "C:\\Users\\itstudent\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj",
         "packagesPath": "C:\\Users\\itstudent\\.nuget\\packages\\",
-        "outputPath": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 2\\Progess\\Project-Latest\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\obj\\",
+        "outputPath": "C:\\Users\\itstudent\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\itstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",

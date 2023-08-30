@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jZgrY0pG3gZHMhx4h1/utb7K1CNNVuDsrPEWzNXb/MokRPIic1CkUxgV5k4NafdODy6SY3NxKyqnLNrh0Fv03Q==",
+  "dgSpecHash": "RuXL7oBIJcgv5rMxbscnvBlNfj6xwkmMHWiYm5UgBYNBEXfZBr5WnaCGv7+6nIXvbRsvvpQlwqEmSJ78JqnnWA==",
   "success": true,
-  "projectFilePath": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 2\\Progess\\Project-Latest\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj",
+  "projectFilePath": "C:\\Users\\itstudent\\Desktop\\CMPG-323-Project-2---30844495\\EcoPowerSolutionAPI\\EcoPowerSolutionAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\itstudent\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\itstudent\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
