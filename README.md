@@ -31,7 +31,7 @@ Before diving into the project, ensure you have all the necessary resources in p
 # Prerequisites
 To successfully work on this project, make sure you have the following prerequisites:
 
-Access to the NWU Azure tenant using your MS Fed account: 12345678@student365.msfed.nwu.ac.za
+Access to the NWU Azure tenant using your MS Fed account: 12345678@mynwu.ac.za
 Created a resource group following the appropriate naming convention.
 Installed Visual Studio 2022 Community Edition.
 Installed .NET Core 6.
